@@ -1,0 +1,27 @@
+# Data Manipulation
+polars>=1.0.0
+numpy>=2.0.0
+pandas
+pyarrow
+
+# Interactive Environment
+jupyter>=1.0.0
+notebook>=7.0.0
+itables
+ipykernel
+streamlit
+
+# Visualization & ML
+matplotlib>=3.8.0
+plotnine>=0.13.0
+scikit-learn>=1.4.0
+seaborn
+plotly
+
+# Deep Learning
+torch>=2.2.0
+torchsummary
+
+# packaging
+pyinstaller
+
