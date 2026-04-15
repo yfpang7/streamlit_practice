@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 30
+  key: cookie_signature
+  name: cookie_name
+credentials:
+  usernames:
+    datascience:
+      email: datascience@mail.com
+      name: Data Science Team
+      password: $2b$12$hhokvlUkWrTDKyM5B2/u9uTFdnJgba0EjUimGIceqIXuwknCTfNrK
+    marketing:
+      email: marketing@mail.com
+      name: Marketing Team
+      password: $2b$12$vEjfSj9j5yRu1THsBTE7BuadDlthFwAv4r2VY57lbv53cMUBRuGnC
